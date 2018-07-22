@@ -6,8 +6,8 @@ description: "이 책은 digital technology가 </br>영화, 음반, 출판 등 �
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: 'linear-gradient (05FBFF , 1E00FF)'
-  links: '219ab3'
+  primary-dark: 'linear-gradient (#05FBFF , #1E00FF)'
+  links: '#219ab3'
 
 # Footer settings
 footer: Jaewan Lim 
