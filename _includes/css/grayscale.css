@@ -16,18 +16,15 @@ html {
     height: 100%;
 }
 
-h1 {font-family: NanumMyeongjo; 
-    },
-h2 {font-family: NanumMyeongjo; 
-    color: #ffffff;
-    },
-h3,
+h1,
+h2,
+h3, 
 h4,
 h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: NanumMyeongjo;
     font-weight: 700;
     letter-spacing: 1px;
 }
