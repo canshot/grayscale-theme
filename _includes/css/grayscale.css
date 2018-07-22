@@ -42,7 +42,7 @@ p {
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
-        font-size: 15px;
+        font-size: 17px;
         line-height: 1.6;
     }
 }
