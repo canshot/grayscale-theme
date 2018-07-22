@@ -19,7 +19,8 @@ html {
 
 h1 {font-family: NanumMyeongjo; 
     font-size: 0.6em;},
-h2,
+h2 {font-family: NanumMyeongjo; 
+    },
 h3,
 h4,
 h5,
