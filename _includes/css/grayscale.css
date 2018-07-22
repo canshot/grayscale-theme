@@ -167,7 +167,7 @@ a:focus {
     font-family: NanumMyeongjo;
 }
 
-@media(min-width:767px) {
+@media(min-width:800px) {
     .intro {
         height: 100%;
         padding: 0;
