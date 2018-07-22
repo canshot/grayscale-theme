@@ -19,6 +19,7 @@ html {
 h1 {font-family: NanumMyeongjo; 
     },
 h2 {font-family: NanumMyeongjo; 
+    color: #ffffff;
     },
 h3,
 h4,
@@ -36,6 +37,7 @@ p {
     font-size: 18px;
     line-height: 1.5;
     font-family: NanumMyeongjo; 
+    color: #ffffff;
     }
 
 @media(min-width:767px) {
