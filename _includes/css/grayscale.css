@@ -8,7 +8,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: NanumMyeongjo;
-    color: EDEDED ;
+    color: #EDEDED ;
     background-color: {{ site.color.primary-dark }};
 }
 
@@ -20,7 +20,7 @@ html {
 h1 {font-family: NanumMyeongjo; 
     },
 h2 {font-family: NanumMyeongjo; 
-    color: 219ab3;
+    color: #219ab3;
     },
 h3,
 h4,
