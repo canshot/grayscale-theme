@@ -141,7 +141,7 @@ a:focus {
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background: url("/img/intro-bg.jpg");
+    background: url("./img/intro-bg.jpg");
     background-repeat: no-repeat;
     background-position: center scroll;
     background-color: {{ site.color.primary-dark }};
