@@ -1,4 +1,4 @@
-플랫폼이 콘텐츠다 ver.1
+플랫폼이 콘텐츠다 - Streaming Sharing Stealing (ver.1)
 ================
 
 
