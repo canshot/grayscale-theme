@@ -375,3 +375,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.row__img {
+  display: none;
+  position: absolute;
+  max-width: 500px;
+  max-height: 500px;
+  top: random(250) - random(250) + px;
+  left: random(500) + px;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 500ms;
+}
